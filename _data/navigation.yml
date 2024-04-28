@@ -1,0 +1,27 @@
+# main links links
+main:
+  - title: "Research"
+    url: /portfolio/
+    
+  - title: "Lab"
+    url: /Lab/
+    
+  - title: "Projects"
+    url: /projects/
+    
+  - title: "Publications"
+    url: /publications/
+      
+  - title: "Teaching"
+    url: /Teachingex/
+
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "Posts"
+    url: /year-archive/
+    
+  - title: "Gallery"
+    url: /markdown/
+    
+
