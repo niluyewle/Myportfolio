@@ -13,12 +13,12 @@ I am an Assistant Professor (tenure-Track) at the [Department of Biosystems Engi
 
 # Education
 
-**BCA** -- SGBAU Amravati University, Amravati ,             2017 – 2020     -  Percentage - 60.92%. 
+**Visiting Scholar ** --Purdue University, IN, United States            2013 - Current    -  Botany and Plant Pathology Department, Field Crop Pathology. 
 <br/>
-**HSC** -- Sant Gadagebaba Junior College Dahigao, Akola ,   2015 – 2017     -  Percentage – 63.23 %.
+**Doctor of Philosophy** -- Agricultural Engineering, West Bengal, India   2017 – 2023     -  Indo-US PhD program at Visva-Bharati, West Bengal, India, and Purdue University, USA
 <br/>
-**SSC** -- Shobhanatai Chaware Vidyalay , Karanja ,          2014 - 2015     -  Percentage – 82.80 %.
-
+**Master of Technology ** -- Agricultural Structures and Environmental Management ,   2015 – 2017     -  Dr. Panjabrao Deshmukh Krishi Vidyapeeth, Akola Maharashtra, India  <br/>
+**Bachelor of Technology  ** -- Agricultural Engineering ,          2011 - 2015     -  Dr. Panjabrao Deshmukh Krishi Vidyapeeth, Akola Maharashtra, India  
 # Research goals
 
 <p style='padding:0.0em; margin-left:0.0em; display: inline-block;'>  
