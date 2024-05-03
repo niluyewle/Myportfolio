@@ -13,12 +13,13 @@ I am an Assistant Professor (tenure-Track) at the [Department of Biosystems Engi
 
 # Education
 
-**Visiting Scholar ** --Purdue University, IN, United States            2013 - Current    -  Botany and Plant Pathology Department, Field Crop Pathology. 
+**Visiting Scholar** -- Purdue University, IN, United States            2013 - Current    
 <br/>
-**Doctor of Philosophy** -- Agricultural Engineering, West Bengal, India   2017 – 2023     -  Indo-US PhD program at Visva-Bharati, West Bengal, India, and Purdue University, USA
+**Doctor of Philosophy** -- Agricultural Engineering, West Bengal, India   2017 – 2023     
 <br/>
-**Master of Technology ** -- Agricultural Structures and Environmental Management ,   2015 – 2017     -  Dr. Panjabrao Deshmukh Krishi Vidyapeeth, Akola Maharashtra, India  <br/>
-**Bachelor of Technology  ** -- Agricultural Engineering ,          2011 - 2015     -  Dr. Panjabrao Deshmukh Krishi Vidyapeeth, Akola Maharashtra, India  
+**Master of Technology** -- Agricultural Structures and Environmental Management    2015 – 2017    
+<br/>
+**Bachelor of Technology** -- Agricultural Engineering          2011 - 2015     
 # Research goals
 
 <p style='padding:0.0em; margin-left:0.0em; display: inline-block;'>  
