@@ -9,20 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
-## Teaching at BESS- UTK.
+## Teaching at Dr. Ulhas Patil College of Agricultural Engineering and Technology, Jalgaon, Maharashtra, India.
 ### Teaching Instructor
 
-- BSE 422/511:  Mechanical Systems Engineering (Every Spring)
-- BSE 326: Engrg. w/Incomp. Fluids (Every Fall)
-- BSE 4xx/5xx: Mechatronics and Robotics Systems (Fall-odd years) 
+-	Advised and mentored undergraduate and graduate students.
+-	Teaching, grading, lesson planning, mentoring.
+- Conducting farmer training programs and guiding the adoption of new agricultural technologies.
+- Worked with farmers closely for their crop improvement state program. 
 
-## Teaching at BAE- Kansas State University.
-### Teaching Instructor
-- BAE 610:  Problems in Biological Systems Engineering (Spring 2022)
-- BAE 460: Computational & Statistical Tools for Engineers (Fall 2022): 
 
-### Guest Lecturer
-- BAE 450 & ATM 450: Off-road Machines & Power Components (Spring 2021)
 
-### Teaching Assistant
-- BAE 550: Hydraulics & Mechatronics (Spring 2019): 
+## Awards.
+### Overseas Visiting Doctoral Fellowship 2020
+- Department of Entomology, Purdue University, USA
+
+### Best Paper Award 2018                                                                                                          
+- 20thIndian Agricultural Scientists and Farmers' Congress, Allahabad, India
+
+### Institution of Engineers (India) award 2018                                                                           
+- Financial support for PhD research, Kolkata, India
+
+### Best Master Thesis Award 2018                                                                           
+- Society for Scientific Development in Agriculture and Technology Meerut, U.P, India
+
+### ICAR-SRF-2017 (To pursue Ph.D.)                                                                                                 
+- Indian Council of Agricultural Research, New Delhi
