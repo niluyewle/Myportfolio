@@ -29,9 +29,13 @@ I am an Assistant Professor (tenure-Track) at the [Department of Biosystems Engi
 
 - **Visiting Research Scholar ,February 2023 – May 2024** Department of Botany and Plant Pathology, Purdue University, USA               
 •	Conducted fieldwork and collected plant disease research data.
+<br/>
 •	Analyzed hyperspectral images for early-stage soybean plant SDS disease detection.
+<br/>
 •	Proficient in laboratory techniques including PCR and DNA sequencing.
+<br/>
 •	Conducted field trials to evaluate crop protection products and practices, demonstrating proficiency in experimental design.
+<br/>
 •	Conducted statistical analysis and interpreted data.
 
 
