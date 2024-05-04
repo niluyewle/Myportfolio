@@ -70,41 +70,69 @@ I am an Assistant Professor (tenure-Track) at the [Department of Biosystems Engi
 
 
 - **Senior Research Fellow ,September 2020 - March 2021** All India Coordinated Research Project Plastic Engineering in Agriculture Structure and        Environment Management, Punjab, India.
+<br/>
 •	Focused studies on precision farming techniques to reduce environmental impact.
+<br/>
 •	Experienced in report writing and annual meeting management and project co-ordinate reports.
+<br/>
 •	Proficient in meticulous data recording for experiments conducted in polyhouses, shade nets, mulching, and low tunnel setups.
+<br/>
 •	Knowledge Dissemination: Conducted training and workshops to promote plastic-based agricultural practices among local farmers.
+<br/>
 •	Conducted experiments within controlled greenhouse environments.
 
 
 
 - **Research Fellow (PhD Research) ,August 2018 - December 2020** ICAR -Central Institute of Post-Harvest Engineering and Technology, Ludhiana, India
+<br/>
 •	Design and establish lab experiments.
+<br/>
 •	In-depth knowledge of seed biology, genetics, physiology, and pathology essential for conducting research in seed development, quality, and performance.
+<br/>
 •	Conducted nutritional quality analysis of products as part of post-harvest losses assessment.
+<br/>
 •	Conducted validation studies for seed health testing methods.
+<br/>
 •	Evaluated airtight storage conditions for spices and pulses.
+<br/>
 •	Conducted research on food packaging materials including PP, PVC, PET, and vacuum packaging.
+<br/>
 •	Proficient in food packaging analysis, emphasizing biological properties, barrier properties, and shelf life and storage assessments.
+<br/>
 •	Conducted comprehensive quality assessments, focusing on sensory attributes, to evaluate product quality.
+<br/>
 •	Proficient in microbial culture and isolation techniques.
+<br/>
 •	Skilled in solvent extraction techniques for compounds such as curcumin, oleoresins, proteins, and color analysis.
+<br/>
 •	Experienced in microbiological testing methods including PCR and plating techniques.
+<br/>
 •	Competent in conducting infrared spectroscopy and spectrophotometer analysis.
+<br/>
 •	Capable of comprehensive data collection, analysis, and interpretation.
+<br/>
 •	Proficient in mathematical modeling, including liner mix model and regression modeling for grain storage.
+<br/>
 •	Presented findings and recommendations to stakeholders for enhancing food security and quality control measures.
+<br/>
 •	Collaborated with multiple institutions to achieve research objectives.
+<br/>
 •	Skilled in analytical methods utilizing spectroscopic techniques.
+<br/>
 •	Published research in peer-reviewed journals.
 
 
 
 - **Teaching Assistant ,May 2017 to September 2017** All India Coordinated Research Project Plastic Engineering in Agriculture Structure and        Environment Management, Punjab, India.
+<br/>
 Department of Farm Structure, Dr. Ulhas Patil College of Agricultural Engineering and Technology, Jalgaon, Maharashtra, India
+<br/>
 •	Advised and mentored undergraduate and graduate students.
+<br/>
 •	Teaching, grading, lesson planning, mentoring.
+<br/>
 •	Conducting farmer training programs and guiding the adoption of new agricultural technologies.
+<br/>
 •	Worked with farmers closely for their crop improvement state program. 
 
 
