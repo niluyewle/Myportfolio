@@ -27,7 +27,8 @@ I am an Assistant Professor (tenure-Track) at the [Department of Biosystems Engi
 <br> I have professional experience as SAP Technical Consultant with experience on SAP Support projects. Experience includes technical developments, requirement gathering unit testing and documentation. SAP expertise SAP ABAP developments. Working experience on for custom developments:<br>
 </p>
 
-- **Visiting Research Scholar ,February 2023 – May 2024** Department of Botany and Plant Pathology, Purdue University, USA               
+- **Visiting Research Scholar ,February 2023 – May 2024** Department of Botany and Plant Pathology, Purdue University, USA
+<br/>             
 •	Conducted fieldwork and collected plant disease research data.
 <br/>
 •	Analyzed hyperspectral images for early-stage soybean plant SDS disease detection.
@@ -40,18 +41,30 @@ I am an Assistant Professor (tenure-Track) at the [Department of Biosystems Engi
 
 
 
-- **Overseas Visiting Doctoral Fellow ,July 2021 – January 2023** Department of Entomology, Purdue University, USA                      
+- **Overseas Visiting Doctoral Fellow ,July 2021 – January 2023** Department of Entomology, Purdue University, USA
+<br/>                   
 •	Studied seed physiology and seed pathology.
+<br/>
 •	Managed seed storage facilities, ensuring optimal conditions for long-term seed preservation.
+<br/>
 •	Conducted seed physiological viability assessments using germination testing for various crops.
+<br/>
 •	Studied a mathematical modeling approach to select an appropriate hermetic storage system for high-value crops.
+<br/>
 •	Implemented quality control measures to ensure seed purity, viability, and germination rates met tropical country standards and regulatory requirements in high-moisture seed production and storage.
+<br/>
 •	Practiced insect-rearing techniques for the cigarette beetle (Lasioderma serricorne) and cowpea beetle (Callosobruchus maculatus).
+<br/>
 •	Identified insect eggs and assessed the life cycle of Lasioderma serricorne using a non-destructive method.
+<br/>
 •	Utilized hypoxia treatment for Cigarette beetle and Maize weevils.
+<br/>
 •	Expertise in insect pests affecting grain storage, encompassing their biology, behavior, and control methods.
+<br/>
 •	Proficient in conducting headspace gas analysis.
+<br/>
 •	Proficient in conducting research in growth chambers to study insect and plant growth behaviors, including experimental design, data collection, and analysis.
+<br/>
 •	Demonstrated proficiency in SEM operation and X-ray imaging techniques for surface analysis.
 
 
