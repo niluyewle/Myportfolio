@@ -21,4 +21,14 @@ redirect_from:
 4.	Sandeep Mann, Nileshwari Yewle, Sachin Mittal (2019). Role of Plastic in Grain Storage: A Review, Proceedings of Design, Innovations, and Applications of Plasticulture Technologies in Agriculture, Horticulture and Plasticulture Production and Post-Harvest Management for Doubling the Farmer's Income, ICAR-Winter school, Central Post Harvest Engineering and Technology, Ludhiana, India, 80-83.
 5.	Chiranjit Singha, Kishor Swain, Nileshwari Yewle (2018). Forecasting of India Monsoon Pattern with Empirical and Dynamic Models, Journal of Agroecology and Natural Resource Management, Vol.5(1) January:25-29.
 
+# Papers Under Preparation:
+1.	Nileshwari Yewle, Richard Stroshine, R. P. Kingsly Ambrose, and Dieudonne Baributsa (2024). Study and model the germination rate of high-moisture Maize Seed (Zea mays L.). Biosystem Engineering. (Submitted).
+2.	Nileshwari Yewle and K. Swain. (2024). Assessment of hermetic technology impact on turmeric rhizomes' (curcuma longa l.) physicochemical and microbial quality during storage. Journal of Stored Products Research (Submitted).
+3.	Bhagyashree Nivrutti Patil, Suchita V Gupta, N. B. Patil and Nileshwari Yewle (2024). Influence of Microwave Drying on Quality Parameters of Foamed 2 Nagpur Mandarin (Citrus reticulata) Juice. Heliyon Journal (Submitted).
+4.	Nileshwari Yewle, Dieudonne Baributsa (2024). Cumulative oxygen consumption during the development of cigarette beetle under hermetic storage conditions. Insect. (Submitted).
+5.	Nileshwari Yewle, Ameya D. Gondhalekar and Dieudonne Baributsa (2024). Evaluation of Food Extractors for Cigarette Beetle Egg Deposition and Morphological Analysis Using SEM. Pest Management Science.
+6.	Nileshwari R. Yewle, Mariama T. Brown, Sungchan Oh , and Darcy E. P. Telenko (2024). Advancing Crop Health Monitoring with UAV-Based Remote Sensing: Insights from Sudden Death Syndrome Detection in Soybean Plants. Frontiers in Plant Science. 
+7.	Nileshwari Yewle, Richard Stroshine and Dieudonne Baributsa (2024). Non-Destructive Imaging of Cigarette Beetle Life Stages. Entomology Purdue extension. 
+8.	Nileshwari Yewle, Richard Stroshine, Darcy E P Telenko, and Dieudonne Baributsa (2024). Hermetic Storage as a Potential Solution for Preserving Quality of Wet Maize in the Humid Tropics. Entomology Purdue extension.
+
 
